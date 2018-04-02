@@ -98,13 +98,7 @@ For Each subfolder In subfolders
         'sheet name
         ws.Name = WrdArray(0) & "-" & WrdArray(1) 'wb.Name 'wb.Worksheets(2).Name
         
-        'bezelye==>ws.Range("A1:K19").Value = wb.Worksheets(1).Range("A1:K19").Value
-        'biber==>ws.Range("A1:K19").Value = wb.Worksheets(2).Range("A1:K19").Value
-        'sanayi==>ws.Range("A1:K19").Value = wb.Worksheets(3).Range("A1:K19").Value
-        'sofralik==>ws.Range("A1:K19").Value = wb.Worksheets(4).Range("A1:K19").Value
-        'salatalik==>ws.Range("A1:K19").Value = wb.Worksheets(5).Range("A1:K19").Value
-        'karpuz==>ws.Range("A1:K19").Value = wb.Worksheets(6).Range("A1:K19").Value
-        'kabak==>
+        'predefined range
         ws.Range("A1:K19").Value = wb.Worksheets(7).Range("A1:K19").Value
         
         
