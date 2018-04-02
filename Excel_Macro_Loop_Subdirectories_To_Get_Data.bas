@@ -1,6 +1,6 @@
 Attribute VB_Name = "Module1"
 Sub spike_excel_r_macro_01()
-Attribute spike_excel_r_macro_01.VB_Description = "spike_excel_r_macro_01"
+Attribute spike_excel_r_macro_01.VB_Description = "Excel_Macro_Loop_Subdirectories_To_Get_Data"
 Attribute spike_excel_r_macro_01.VB_ProcData.VB_Invoke_Func = "j\n14"
 
 'Mustafa Alpay: Excel_Macro_Loop_Subdirectories_To_Get_Data
